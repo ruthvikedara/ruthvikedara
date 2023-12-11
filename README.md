@@ -19,13 +19,13 @@
 
 🤖 "Transforming healthcare, one line of code at a time."
 
-📚 Explore My Projects:
+<!--📚 Explore My Projects:
 🔗 [Link to Project 1]
 🔗 [Link to Project 2]
 🔗 [Link to Project 3]
 
 🏆 Honors and Achievements:
-🥇 [Relevant Awards or Recognitions]
+🥇 [Relevant Awards or Recognitions] -->
 
 Let's rewrite the future of healthcare. Join me on this incredible journey!
 
