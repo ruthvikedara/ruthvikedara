@@ -2,7 +2,7 @@
 
 👨‍⚕️🚀 Dr. Sai Ruthvik Edara | Transitioning to AI in Healthcare | Passionate about Tech-Enabled Healing
 
-📧 [Your Email] | 📱 [LinkedIn Profile] | 🐦 [Twitter Handle]
+📧 [Your Email] | 📱 [LinkedIn Profile](https://www.linkedin.com/in/ruthvikedara/)
 
 👋 Hello, world! I'm Ruthvik, a medical professional turned tech enthusiast with a mission to revolutionize healthcare through the power of artificial intelligence and innovative health technologies. With a background in medicine, I bring a unique perspective to the world of programming, with a relentless dedication to improving patient outcomes and medical practices.
 
