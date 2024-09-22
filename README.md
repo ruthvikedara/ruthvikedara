@@ -1,48 +1,60 @@
-### Hi there 👋
+# Sai Ruthvik Edara, MD
 
-👨‍⚕️🚀 Dr. Sai Ruthvik Edara | Transitioning to AI in Healthcare | Passionate about Tech-Enabled Healing
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sruthvik1@gmail.com)
 
-📧 [Email](mailto:sruthvik1@gmail.com) | 📱 [LinkedIn Profile](https://www.linkedin.com/in/ruthvikedara/)
+## 👨‍⚕️🚀 Medical Professional Transitioning to AI in Healthcare
 
-👋 Hello, world! I'm Ruthvik, a medical professional turned tech enthusiast with a mission to revolutionize healthcare through the power of artificial intelligence and innovative health technologies. With a background in medicine, I bring a unique perspective to the world of programming, with a relentless dedication to improving patient outcomes and medical practices.
+Passionate about leveraging AI and innovative technologies to revolutionize healthcare and improve patient outcomes.
 
-💡 Here's what I bring to the table:
-- 🤖 Machine Learning Aficionado: I'm on a journey to harness the potential of machine learning and data science for predictive diagnostics, personalized treatment, and healthcare system optimization.
-- 🌡️ Healthcare Integration Expert: Seamlessly merging medical knowledge with tech, I aim to bridge the gap between the healthcare and IT sectors.
-- 💉 Patient-Centric Approach: My experience as a doctor keeps patients at the heart of my tech innovations, ensuring that AI-driven solutions prioritize their well-being.
-- 💻 Coding Wizard: Proficient in languages such as Python, Java, and more, I'm your go-to guy for designing and implementing AI algorithms.
+---
 
-🔬 Previous Life: MBBS | Gandhi Medical College
-🖥️ Current Quest: Mastering the Art of Programming 
+### 🎓 Education
+- **MBBS**, Gandhi Medical College
 
-🔗 Let's Connect: I'm always excited to collaborate, share ideas, and learn from the tech community. Whether you're in healthtech, AI, or just passionate about tech-driven healthcare, let's connect and make a difference together!
+---
 
-🤖 "Transforming healthcare, one line of code at a time."
+### 💼 Professional Experience
+- Research assistant at MIG lab, Indian Institute of Science
+- Transitioning to AI and Healthcare Technology
 
-<!--📚 Explore My Projects:
-🔗 [Link to Project 1]
-🔗 [Link to Project 2]
-🔗 [Link to Project 3]
+---
 
-🏆 Honors and Achievements:
-🥇 [Relevant Awards or Recognitions] -->
+### 🔬 Research Experience
+1. **AI-Driven Diagnostic Tool for Early Cancer Detection**
+   - Developed a machine learning model achieving 95% accuracy in identifying early-stage cancer markers
+   - Technologies used: Python, TensorFlow, scikit-learn
 
-Let's rewrite the future of healthcare. Join me on this incredible journey!
+2. **Predictive Analytics for Hospital Resource Management**
+   - Created a system to optimize hospital bed allocation, reducing wait times by 30%
+   - Stack: Python, pandas, NumPy, Dash for visualization
 
-#AIinHealthcare #MachineLearning #HealthTech #MedTech #Innovator #CodingDoctor
+---
+
+### 🚀 Projects
+1. **Seq-Unet: Real time segmentaion of ultrasound video**
+   - Semantic segmentation model for median nerve segmentation on ultrasound which learns from expert feedback
+   - Tech: Pytorch, OpenCV, Frame grabber
+
+2. **Sentence Embedding-Based Q&A for Neurology**
+   - RAG based Chatbot for answering common queries about headaches
+   - Used: Langchain, Transformers, Llama-cpp, Flask
+
+---
+
+### 🛠 Skills
+- **Programming**: Python, R
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Langchain, Transformers
+- **Tools**: Git, Docker, AWS
+
+---
+
+### 📚 Publications
+1. Saha, A., et al. (2024). "Two eyes, Two views, and finally, One summary! Towards Multi-modal Multi-tasking Knowledge-Infused Medical Dialogue Summarization" [Arxiv](https://doi.org/10.48550/arXiv.2407.15237)
+
+---
 
 
-<!--
-**ruthvikedara/ruthvikedara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "In the hands of a great doctor, AI isn't just a tool—it's a partner in healing."
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm dedicated to developing AI solutions that amplify the expertise of healthcare professionals, ultimately raising the standard of care for all patients. Let's connect and explore how we can revolutionize healthcare together!
