@@ -33,7 +33,7 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 ### 🚀 Projects
-1. **Seq-Unet: Real time segmentaion of ultrasound video**
+1. **Seq-Unet: A Temporal Segmentation Model for Medical Imaging**
    - Semantic segmentation model for median nerve segmentation on ultrasound which learns from expert feedback
    - Tech: Pytorch, OpenCV
 
