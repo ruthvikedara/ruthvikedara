@@ -1,4 +1,4 @@
-# Sai Ruthvik Edara, MD
+# Sai Ruthvik Edara, MBBS
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sruthvik1@gmail.com)
@@ -15,26 +15,27 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 ### 💼 Professional Experience
-- Research assistant at MIG lab, Indian Institute of Science
+- Research assistant at [MIG lab](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/Aboutus.html), Indian Institute of Science
+- Clinical Lead at [Clinical AI Assistance](https://clinicalaiassistance.com/)
 - Transitioning to AI and Healthcare Technology
 
 ---
 
 ### 🔬 Research Experience
-1. **AI-Driven Diagnostic Tool for Early Cancer Detection**
+1. **Real Time Segmentation on Ultrasound Videos**
    - Developed a machine learning model achieving 95% accuracy in identifying early-stage cancer markers
-   - Technologies used: Python, TensorFlow, scikit-learn
+   - Technologies used: Pytorch, OpenCV
 
-2. **Predictive Analytics for Hospital Resource Management**
-   - Created a system to optimize hospital bed allocation, reducing wait times by 30%
-   - Stack: Python, pandas, NumPy, Dash for visualization
+2. **Predictive Analytics for Reasmission after surgery**
+   - Created a predictive model for readmissions after endocrine surgeries
+   - Libraries: LGBM, XGBoost, pandas
 
 ---
 
 ### 🚀 Projects
 1. **Seq-Unet: Real time segmentaion of ultrasound video**
    - Semantic segmentation model for median nerve segmentation on ultrasound which learns from expert feedback
-   - Tech: Pytorch, OpenCV, Frame grabber
+   - Tech: Pytorch, OpenCV
 
 2. **Sentence Embedding-Based Q&A for Neurology**
    - RAG based Chatbot for answering common queries about headaches
@@ -45,7 +46,7 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ### 🛠 Skills
 - **Programming**: Python, R
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Langchain, Transformers
-- **Tools**: Git, Docker, AWS
+- **Tools**: Git, Docker
 
 ---
 
