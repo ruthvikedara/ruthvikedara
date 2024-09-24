@@ -29,6 +29,10 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 2. **Predictive Analytics for Reasmission after surgery**
    - Created a predictive model for readmissions after endocrine surgeries
    - Libraries: LGBM, XGBoost, pandas
+  
+3. **Medical Dialogue Summarization**
+   - RL model for generating medical summaries from patient-doctor conversations.
+
 
 ---
 
