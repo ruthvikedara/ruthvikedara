@@ -36,11 +36,11 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 ### 🚀 Projects
-1. **Seq-Unet: A Temporal Segmentation Model for Medical Imaging**
+1. **[Seq-Unet](https://github.com/ruthvikedara/Seq-Unet): A Temporal Segmentation Model for Medical Imaging**
    - Semantic segmentation model for median nerve segmentation on ultrasound which learns from expert feedback
    - Tech: Pytorch, OpenCV
 
-2. **Sentence Embedding-Based Q&A for Neurology**
+2. **[HeadacheBot](https://github.com/ruthvikedara/headache-rag): A Simple Assistant for Neurologists**
    - RAG-based Chatbot for answering common queries about headaches
    - Used: Langchain, Transformers, Llama-cpp, Flask
 
