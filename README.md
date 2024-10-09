@@ -17,16 +17,15 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ### 💼 Professional Experience
 - Research assistant at [MIG lab](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/Aboutus.html), Indian Institute of Science
 - Clinical Lead at [Clinical AI Assistance](https://clinicalaiassistance.com/)
-- Transitioning to AI and Healthcare Technology
 
 ---
 
 ### 🔬 Research Experience
-1. **Real Time Segmentation on Ultrasound Videos**
+1. **Real-Time Segmentation on Ultrasound Videos**
    - Developed a machine learning model achieving 95% accuracy in identifying early-stage cancer markers
    - Technologies used: Pytorch, OpenCV
 
-2. **Predictive Analytics for Reasmission after surgery**
+2. **Predictive Analytics for Readmission after surgery**
    - Created a predictive model for readmissions after endocrine surgeries
    - Libraries: LGBM, XGBoost, pandas
   
@@ -42,7 +41,7 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
    - Tech: Pytorch, OpenCV
 
 2. **Sentence Embedding-Based Q&A for Neurology**
-   - RAG based Chatbot for answering common queries about headaches
+   - RAG-based Chatbot for answering common queries about headaches
    - Used: Langchain, Transformers, Llama-cpp, Flask
 
 ---
