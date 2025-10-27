@@ -1,9 +1,9 @@
 # Sai Ruthvik Edara, MBBS, MS
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruthvikedara)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sruthvik1@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ruthvik.edara@yale.edu)
 
-## 👨‍⚕️🚀 Medical Professional Transitioning to AI in Healthcare
+## 👨‍⚕️🚀 Clinical AI Researcher
 
 Passionate about leveraging AI and innovative technologies to revolutionize healthcare and improve patient outcomes.
 
