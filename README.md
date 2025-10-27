@@ -1,4 +1,4 @@
-# Sai Ruthvik Edara, MBBS
+# Sai Ruthvik Edara, MBBS, MS
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ruthvikedara)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sruthvik1@gmail.com)
@@ -10,30 +10,19 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 ### 🎓 Education
+- **MS** Health Informatics, Yale University
 - **MBBS**, Gandhi Medical College
 
 ---
 
-### 💼 Professional Experience
+### 💼 Research Experience
+- Research Assistant at [Dr. Qingyu Chen's lab](https://sites.google.com/view/qingyuchen/home), Yale University
+- Research Associate at [BrainXAI](https://www.brainxai.com/research)
 - Research assistant at [MIG lab](https://cds.iisc.ac.in/faculty/yalavarthy/MIG/Aboutus.html), Indian Institute of Science
 - Clinical Lead at [Clinical AI Assistance](https://clinicalaiassistance.com/)
 
 ---
 
-### 🔬 Research Experience
-1. **Real-Time Segmentation on Ultrasound Videos**
-   - Developed a machine learning model achieving 95% accuracy in identifying early-stage cancer markers
-   - Technologies used: Pytorch, OpenCV
-
-2. **Predictive Analytics for Readmission after surgery**
-   - Created a predictive model for readmissions after endocrine surgeries
-   - Libraries: LGBM, XGBoost, pandas
-  
-3. **Medical Dialogue Summarization**
-   - RL model for generating medical summaries from patient-doctor conversations.
-
-
----
 
 ### 🚀 Projects
 1. **[Seq-Unet](https://github.com/ruthvikedara/Seq-Unet): A Temporal Segmentation Model for Medical Imaging**
@@ -47,7 +36,7 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 ### 🛠 Skills
-- **Programming**: Python, R
+- **Programming**: Python, R, SQL, JavaScript
 - **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Langchain, Transformers
 - **Tools**: Git, Docker
 
@@ -59,6 +48,3 @@ Passionate about leveraging AI and innovative technologies to revolutionize heal
 ---
 
 
-> "In the hands of a great doctor, AI isn't just a tool—it's a partner in healing."
-
-I'm dedicated to developing AI solutions that amplify the expertise of healthcare professionals, ultimately raising the standard of care for all patients. Let's connect and explore how we can revolutionize healthcare together!
